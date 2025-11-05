@@ -1,2 +1,3 @@
 Good Morning.
 Modified from branch A ,git stash.
+Adding this line to check giy revert.
