@@ -1,1 +1,1 @@
-content inside file3
+Checking for git stash cmd.

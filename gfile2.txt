@@ -1,2 +1,2 @@
 Good Morning.
-Second line inserted by branch A.
+Modified from branch A ,git stash.
