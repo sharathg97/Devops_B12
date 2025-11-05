@@ -4,4 +4,6 @@ check for git tag.
 
 editing this to add.
 
-modifying this file to check git reset.
+modifying this file to check git reset
+
+trying git reset mixed.
