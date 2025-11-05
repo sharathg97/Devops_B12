@@ -1,3 +1,6 @@
 good morning
 addling this line from branch A
 to check git revert.
+
+multiple git revert 
+modifying gfile.txt
