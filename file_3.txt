@@ -3,3 +3,5 @@ good night
 check for git tag.
 
 editing this to add.
+
+modifying this file to check git reset.
