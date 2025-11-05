@@ -1,1 +1,2 @@
 Good Morning.
+Second line inserted by branch A.
