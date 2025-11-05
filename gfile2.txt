@@ -1,3 +1,2 @@
 Good Morning.
-Second line inserted by branch A and branch B to check merge conflict by PR.
-
+Checking git cherry pick
