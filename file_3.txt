@@ -1,3 +1,5 @@
 Checking for git stash cmd.
 good night
 check for git tag.
+
+editing this to add.
